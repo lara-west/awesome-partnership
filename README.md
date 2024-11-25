@@ -36,6 +36,10 @@ These are programs run by companies, offering influencers, brands, and small bus
 - **Microsoft Partner Network**  
   [Link](https://partner.microsoft.com/) – Partner with Microsoft to gain access to a broad network of resources and opportunities for growth.
 
+- **BCMS Affiliate Program**  
+  [Link](https://thebcms.com/affiliate) – Partner with BCMS to earn up to 50% commission for referrals, helping partners earn by promoting BCMS to their audience.
+
+
 ---
 
 ## Influencer Partnership Tools
